@@ -9,11 +9,12 @@
     <title>Document</title>
 </head>
 <body>
-    @yield('content')
+
 
 <ul>
     <li><a href="/address">Address</a>`</li>
     <li><a href="/contact">Contact</a></li>
 </ul>
+@yield('content')
 </body>
 </html>
