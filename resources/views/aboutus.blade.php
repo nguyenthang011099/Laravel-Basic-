@@ -9,7 +9,10 @@
 </head>
 <body>
 <h1>About Us</h1>
-
+<ul>
+    <li><a href="/address">Address</a>`</li>
+    <li><a href="/contact">Contact</a></li>
+</ul>
 </body>
 </html>
 

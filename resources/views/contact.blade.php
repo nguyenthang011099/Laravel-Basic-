@@ -10,5 +10,9 @@
 </head>
 <body>
 <h1>contact page</h1>
+<ul>
+    <li><a href="/address">Address</a>`</li>
+    <li><a href="/contact">Contact</a></li>
+</ul>
 </body>
 </html>
