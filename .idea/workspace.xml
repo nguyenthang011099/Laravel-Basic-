@@ -14,6 +14,9 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
@@ -100,7 +103,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1PUZq16R5vMPkFOIk5aTTtavi5c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -141,7 +146,7 @@
       <option name="presentableId" value="Default" />
       <updated>1565930822141</updated>
       <workItem from="1565930823947" duration="1485000" />
-      <workItem from="1565936288548" duration="4305000" />
+      <workItem from="1565936288548" duration="4980000" />
     </task>
     <servers />
   </component>
