@@ -7,6 +7,7 @@
 
 
 ## [2. Cấu trúc thư mục](https://laracasts.com/series/laravel-from-scratch-2018/episodes/9)
+tham khao nguon : https://laravel.com/docs/5.8/structure#the-database-directory
 
 ### Thư mục App
 - Chứa `Controller`, `Model` và các thành phần cốt lõi khác của ứng dụng.
